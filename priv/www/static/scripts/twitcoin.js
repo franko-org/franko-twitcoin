@@ -1,6 +1,6 @@
 $(function() {
 
-  var TWITCOIN_TX_FEE = 0.001;
+  var TWITCOIN_TX_FEE = 0.0001;
 
   var urlParams = function() {
     var params = {};
