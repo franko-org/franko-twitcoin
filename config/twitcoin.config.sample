@@ -7,12 +7,12 @@
 {twitcoin_ip, {127,0,0,1}}.
 {twitcoin_port, 8080}.
 
-{twitcoin_bitcoind_url, "http://127.0.0.1:8332"}.
+{twitcoin_bitcoind_url, "http://127.0.0.1:7913"}.
 
 {twitcoin_bitcoind_rpc_user, "bitcoinrpc"}.
 {twitcoin_bitcoind_rpc_password, "password"}.
 
-{twitcoin_account, "twitcoin_net"}.
+{twitcoin_account, "xdefacedx"}.
 
 %% For each transaction, it sends half of the transaction fee to the Twitcoin
 %% Twitter account. The other half of the fee is used for the network. That is,
